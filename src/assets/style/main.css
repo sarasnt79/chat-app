@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body, html{
+    padding: 0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.register{
+    border: 4px dashed rgba(127, 202, 202, 0.438);
+    border-radius: 8px;
+}
+
+.chat{
+    border-radius: 8px;
+    /* background: url(./../image/Telegram\ Background.jfif); */
+    background-color: rgba(127, 202, 202, 0.438);
+}   
+
